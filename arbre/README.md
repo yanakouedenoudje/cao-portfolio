@@ -12,11 +12,11 @@ Exercice d'apprentissage réalisé en autodidacte pour me former à la conceptio
 
 | Élément | Valeur |
 |---|---|
-| Longueur totale | [À COMPLÉTER] mm |
-| Diamètres | Ø[À COMPLÉTER] / Ø[À COMPLÉTER] / Ø[À COMPLÉTER] mm |
-| Épaulement | Ø[À COMPLÉTER] mm |
-| Rainures de clavette | 2 × [À COMPLÉTER] mm (largeur × longueur) |
-| Matériau prévu | [À COMPLÉTER] |
+| Longueur totale | 225 mm |
+| Diamètres | Ø25, Ø28/29, Ø30, Ø32, Ø38, Ø40 |
+| Épaulement | Ø50 × 5 mm |
+| Rainure de clavette sur Ø40 | 12 × 35 mm, profondeur 5 mm |
+| Rainure de clavette sur Ø25 | 8 × 37 mm, profondeur 4 mm |
 
 ## Fichiers
 
