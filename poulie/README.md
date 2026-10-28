@@ -6,7 +6,7 @@ Poulie à gorge modélisée sous Autodesk Fusion.
 
 ## Contexte
 
-Exercice d'apprentissage réalisé en autodidacte pour me former à la conception d'organes de transmission mécanique. [À COMPLÉTER : précise si la poulie est destinée à une corde, un câble ou une courroie.]
+Exercice d'apprentissage réalisé en autodidacte pour me former à la conception d'organes de transmission mécanique.
 
 ## Caractéristiques
 
