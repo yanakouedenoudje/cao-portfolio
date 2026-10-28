@@ -6,7 +6,7 @@ Disque doseur de graines pour semoir, modélisé sous Autodesk Fusion.
 
 ## Contexte
 
-[À COMPLÉTER : exercice d'apprentissage en autodidacte, ou pièce d'un projet de semoir. Précise la graine visée si tu en as une.]
+exercice d'apprentissage en autodidacte
 
 ## Caractéristiques
 
