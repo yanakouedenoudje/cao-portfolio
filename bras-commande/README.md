@@ -12,12 +12,12 @@ Exercice d'apprentissage réalisé d'après un plan de référence : [À COMPLÉ
 
 | Élément | Valeur |
 |---|---|
-| Épaisseur de la plaque | 10 mm [À VÉRIFIER] |
-| Moyeu | Ø45 mm, longueur 40 mm [À VÉRIFIER] |
-| Alésage | Ø25 mm [À VÉRIFIER] |
-| Rainure de clavette | 5 × 3 mm [À VÉRIFIER] |
-| Lumière en arc | rayon 89,25 mm sur 30° [À VÉRIFIER] |
-| Matériau prévu | [À COMPLÉTER] |
+| Épaisseur de la plaque | 10 mm |
+| Moyeu | Ø45 mm, longueur 40 mm |
+| Alésage | Ø25 mm |
+| Rainure de clavette | 5 × 3 mm |
+| Lumière en arc | rayon 89,25 mm sur 30° |
+| Matériau prévu | Acier |
 
 ## Ma contribution
 
