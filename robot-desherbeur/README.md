@@ -6,9 +6,9 @@ Petit robot désherbeur mobile à quatre roues modélisé sous Autodesk Fusion :
 
 ## Contexte
 
-Projet de conception d'un robot désherbeur pour l'agriculture. [À COMPLÉTER : confirmer que le châssis, les roues, les moteurs et l'outil sont de ma conception.]
+Projet de conception d'un robot désherbeur pour l'agriculture. Le châssis, les roues, les moteurs et l'outil sont de ma conception.
 
-Le capteur LiDAR RPLIDAR C1 est un composant commercial (Slamtec). [À COMPLÉTER : source du modèle 3D du RPLIDAR C1, réalisé par moi ou téléchargé, avec le lien.]
+Le capteur LiDAR RPLIDAR C1 est un composant commercial. Source du modèle 3D du RPLIDAR C1 (https://grabcad.com/library/rplidar-c1-1)
 
 ## Caractéristiques
 
@@ -26,7 +26,7 @@ Le capteur LiDAR RPLIDAR C1 est un composant commercial (Slamtec). [À COMPLÉTE
 ## Ma contribution
 
 - Assemblage complet des pièces avec liaisons (joints) sous Fusion.
-- [À COMPLÉTER : pièces modélisées par moi (châssis, roue, moteur, outil…).]
+- Pièces modélisées par moi : châssis, roue, moteur, outil…
 
 ## Fichiers
 
