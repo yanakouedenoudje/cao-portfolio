@@ -6,7 +6,7 @@ Scanner pour champ modélisé sous Autodesk Fusion : un corps porteur (platine e
 
 ## Contexte
 
-[À COMPLÉTER : objectif du scanner (que doit-il faire dans le champ ?) et origine du modèle : conception personnelle ou modèle de référence, avec la source.]
+Dispositif conçu pour scanner le champ et détecter l'état des plants.
 
 ## Caractéristiques
 
@@ -22,7 +22,6 @@ Scanner pour champ modélisé sous Autodesk Fusion : un corps porteur (platine e
 
 - Modélisation 3D du corps et de la patte.
 - Assemblage des pièces sous Fusion.
-- [À COMPLÉTER : autres éléments réalisés par moi.]
 
 ## Fichiers
 
